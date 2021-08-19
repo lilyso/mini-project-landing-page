@@ -1,0 +1,15 @@
+
+nav {
+    background-color: pink;
+    text-align: right;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li {
+    display: inline;
+}
